@@ -1,8 +1,6 @@
 # compiled output
-api/dist
-api/node_modules
-node_modules
-pgdata
+/dist
+/node_modules
 
 # Logs
 logs
